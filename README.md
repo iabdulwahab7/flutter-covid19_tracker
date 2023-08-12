@@ -1,6 +1,8 @@
 # covid19_tracker
 
-A new Flutter project.
+# Concepts
+1. RestAPI
+
 
 ## Getting Started
 
